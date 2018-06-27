@@ -14,8 +14,40 @@ nav {
   padding: 10px 0 15px 15px;
   position: fixed;
   width: 420px;
+  background-color: #000000;
 }
 
 .restaurant-list {
   padding-top: 50px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.content {
+display:inline-block;
+width: 82%;
+padding: 5%;
+line-height: 2.5em;
+
+}
+
+h3 {
+  font-size: 1.4em;
+  font-weight: 100;
+}
+
+.arrow {
+  width: 8%;
+  float: right;
+  padding-top: 6%;
+}
+
+.location {
+  background-color: #DEDEDE;
+  border-bottom-width: thin;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
 }
